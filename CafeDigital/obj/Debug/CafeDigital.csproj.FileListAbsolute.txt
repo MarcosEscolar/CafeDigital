@@ -1,0 +1,13 @@
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\bin\Debug\CafeDigital.exe.config
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\bin\Debug\CafeDigital.exe
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\bin\Debug\CafeDigital.pdb
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.Form1.resources
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.Form2.resources
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.Properties.Resources.resources
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.exe
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.pdb
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.exe.config
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.Form3.resources
