@@ -9,5 +9,6 @@ C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.csp
 C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.csproj.CoreCompileInputs.cache
 C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.exe
 C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.pdb
-C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.exe.config
 C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.Form3.resources
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.UserControl1.resources
+C:\Users\CAMPUSFP\source\repos\CafeDigital\CafeDigital\obj\Debug\CafeDigital.exe.config
